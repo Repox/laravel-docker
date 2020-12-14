@@ -74,7 +74,7 @@ To stop the environment and remove volume data and container network (eg. for st
 $ docker-compose down -v
 ```
 
-##Helping commands
+## Helping commands
 
 There's been added some containers that can interact directly with the environment to utilize Composer and Artisan within the docker network.
 
